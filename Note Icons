@@ -1,3 +1,17 @@
 Info Icon:    > ### @icon-info-circle
 Gear Icon:   > ### @icon-gear
 Spinner Animated:  @icon-duotone-spinner-spin-color:steelblue Spin me up!
+
+There are several additional FontAwesome Style Extensions that you can apply to your embeddings via - directives.
+@icon-solid-gear-color:gold Thats a gear
+Font styles (@icon-solid, @icon-duotone, @icon-light, @icon-regular)
+Font color (-color:gold)
+Spinning icons (-spin)
+
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> Configuration can be launched from the **Tools -> Settings** menu option.
+
+Click on the @icon-camera icon to take a screen shot.
+
+> #### @icon-info-circle Notice
+> blah blah blah
